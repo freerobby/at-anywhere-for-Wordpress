@@ -10,7 +10,7 @@ Stable tag: 1.0
 
 == Description ==
 
-@anywhere for Wordpress allows your visitors to follow you, DM you and even Tweet about your articles without ever leaving your blog.
+@anywhere for Wordpress allows your visitors to follow you without ever leaving your blog. Support is coming soon for added Twitter functionality.
 
 == Installation ==
 
@@ -21,8 +21,13 @@ Part 1: Register an @anywhere application
 3. Accept the terms
 4. Click "Edit Application Settings"
 5. Click "Application Detail"
-6. Copy and paste your "Consumer Key" somewhere you won't lose it. You'll need this later.
+6. Copy your @anywhere API Key to your clipboard. You'll need this later.
 
 Part 2: Install the plugin as you would any other Wordpress plugin.
 
-Part 3: Configure the plugin
+Part 3:
+1. From your Wordpress dashboard, click "Settings"
+2. Select "Configure @anywhere"
+3. Paste your @anywhere API Key into the settings field, and click save!
+
+Your blog is now configured with @anywhere!
